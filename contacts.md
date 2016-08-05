@@ -2,7 +2,7 @@
 
 Адрес школы: Б.Харитоньевский переулок, 14
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=I7fpbRJmSjMP3-b0KVMZkWmEqzFNXOk1&amp;width=600&amp;height=367&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
+[![карта](https://api-maps.yandex.ru/services/constructor/1.0/static/?sid=I7fpbRJmSjMP3-b0KVMZkWmEqzFNXOk1&amp;width=600&amp;height=367&amp;lang=ru_RU&amp;sourceType=constructor)](https://yandex.ru/maps/?um=constructor:I7fpbRJmSjMP3-b0KVMZkWmEqzFNXOk1&amp;source=constructorStatic)
 
 Email: [info@guitardo.ru](mailto:info@guitardo.ru)
 
