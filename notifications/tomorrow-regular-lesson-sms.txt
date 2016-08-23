@@ -1,2 +1,2 @@
-Ждем Вас на урок {lessonName} {date} в {time}.
+Ждем Вас на урок {lessonName} завтра в {time}.
 {linkToStudentApp}
