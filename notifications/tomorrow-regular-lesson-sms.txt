@@ -1,2 +1,1 @@
-Ждем Вас на урок {lessonName} завтра в {time}.
-{linkToStudentApp}
+Ждем Вас на урок {lessonName} завтра в {time}. Вы можете сами переносить свои уроки тут: {linkToStudentApp}
