@@ -10,6 +10,6 @@
 {linkToStudentApp}
 
 Наш адрес:
-{street}, {house}
+{subway}, {street}, {house}
 {phone}
 http://guitardo.ru
