@@ -1,0 +1,15 @@
+Привет!
+
+Ждем вас на занятие в Гитардо.
+Курс: «{lessonName}»
+Дата: «{date}»
+Начало занятия: «{time}»
+Аудитория: «{auditory}»
+Преподаватель: {teacher}
+
+{linkToStudentApp}
+
+Наш адрес:
+{street}, {house}
+{phone}
+http://guitardo.ru
