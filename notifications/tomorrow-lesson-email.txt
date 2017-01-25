@@ -9,8 +9,7 @@
 
 {linkToStudentApp}
 
-С уважением,
-Школа музыки GUITARDO
-Б.Харитоньевский пер., 14
-+7(495)181-00-91
+Наш адрес:
+{subway}, {street}, {house}
+{phone}
 http://guitardo.ru
