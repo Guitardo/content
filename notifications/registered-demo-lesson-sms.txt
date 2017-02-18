@@ -1,0 +1,3 @@
+Вы записаны на урок {lessonName} {date} в {time}.
+{subway}, {street}, {house}, {howToFind} (карта {howToFindMapUrl}). При покупке курса в день визита скидка 25%!
+{phone}
