@@ -1,1 +1,1 @@
-Ждем Вас на урок {lessonName} {date} в {time}. Для переноса урока звоните {phone}
+{date} в {time} {lessonName}. Для переноса звоните {phone}
