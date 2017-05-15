@@ -1,1 +1,1 @@
-Ждем Вас на урок {lessonName} {date} в {time}. Ваш личный кабинет: {linkToStudentApp}
+{date} в {time} {lessonName}. Ваш личный кабинет: {linkToStudentApp}
