@@ -1,0 +1,1 @@
+До {date} нужно внести следующий платеж. Ждем вас в {time} на {lessonName}. Оплатите прямо сейчас: {linkToStudentAppDeal}
