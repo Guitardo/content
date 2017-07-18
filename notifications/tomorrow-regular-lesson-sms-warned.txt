@@ -1,1 +1,1 @@
-Внести следующий платеж нужно {date}. Ждем вас в {time} на {lessonName}. Оплатите прямо сейчас через ЛК: {linkToStudentAppDeal}
+Внести следующий платеж {grantPayment} нужно {date}. Ждем вас в {time} на {lessonName}. Оплатите {grantPayment} прямо сейчас через ЛК: {linkToStudentAppDeal}
