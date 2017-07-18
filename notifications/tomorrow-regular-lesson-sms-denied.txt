@@ -1,1 +1,1 @@
-У вас урок {lessonName} {date} в {time}. Абонемент недоплачен, без доплаты вы не будете допущены. Оплатите прямо сейчас: {linkToStudentAppDeal} или на кассе.
+У вас урок {lessonName} {date} в {time}. Абонемент недоплачен, чтобы попасть на урок, оплатите {grantPayment} прямо сейчас: {linkToStudentAppDeal} или на кассе.
